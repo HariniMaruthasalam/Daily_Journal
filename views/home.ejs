@@ -1,0 +1,18 @@
+<%- include("partials/header"); -%>
+
+<h1>Home</h1>
+<p class="home-starting-content"><%= StartingContent %></p>
+
+
+
+<% publishs.forEach(function(publish){%>
+
+
+
+<h1><%= publish.title %></h1>
+
+<p><%=publish.Content %></p>
+
+<%})%>
+
+<%- include("partials/footer"); -%>
