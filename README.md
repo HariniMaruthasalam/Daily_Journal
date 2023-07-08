@@ -1,6 +1,5 @@
 # Daily_Journal
-![images](https://github.com/HariniMaruthasalam/Daily_Journal/assets/114240304/872dd5e6-0965-488e-ad49-45956198d95d)
-![images (1)](https://github.com/HariniMaruthasalam/Daily_Journal/assets/114240304/1f3b90f3-78a1-4fc4-ac64-76d9fa6fbab7)
+
 ![writing-in-journal](https://github.com/HariniMaruthasalam/Daily_Journal/assets/114240304/48b43ab0-7fca-4fd0-879b-9d81ead4c253)
 
 # What is Daily Journal??
