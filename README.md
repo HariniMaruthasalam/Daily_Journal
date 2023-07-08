@@ -1,6 +1,7 @@
 # Daily_Journal
 ![images](https://github.com/HariniMaruthasalam/Daily_Journal/assets/114240304/872dd5e6-0965-488e-ad49-45956198d95d)
 ![images (1)](https://github.com/HariniMaruthasalam/Daily_Journal/assets/114240304/1f3b90f3-78a1-4fc4-ac64-76d9fa6fbab7)
+![hand_writing_on_notepad_2021_08_26_15_34_39_utc](https://github.com/HariniMaruthasalam/Daily_Journal/assets/114240304/ef7188e0-42d7-404a-b249-35300216e0c2)
 
 # What is Daily Journal??
 A daily journal, also known as a diary or journaling, is a personal writing practice where individuals record their thoughts, experiences, and reflections on a regular basis. It serves as a tool for self-expression, self-reflection, and personal growth. Writing in a journal can be done in various formats, including handwritten entries in a physical notebook or using digital platforms or apps.
@@ -23,7 +24,7 @@ Keeping a daily journal can have numerous benefits for individuals:
 
 Ultimately, the practice of daily journaling is highly personal, and individuals can tailor it to their preferences and needs. Whether used as a private space for self-reflection or a tool for creative expression, a daily journal can serve as a valuable companion on one's personal growth and self-discovery path.
 
-# About the Projct
+# About the Project
 
 The app is built using CSS, and Node.js with the EJS templating engine. Its primary objective is to provide an end user with a user-friendly platform for creating and saving their daily journal entries.
 
@@ -37,3 +38,22 @@ Additionally, the app may include features such as authentication to ensure that
 
 Overall, the app's aim is to provide a convenient and accessible platform for users to create, store, and manage their daily journal entries in a user-friendly and visually appealing manner.
 
+# Outcome
+1. Home page:
+    In this page, users can view their daily journal entries that they have written using the app. The purpose of this feature is to provide users with a convenient way to access and review their past journal entries.
+![Screenshot (129)](https://github.com/HariniMaruthasalam/Daily_Journal/assets/114240304/1bcc230f-4adc-4c66-a3b5-a40e97e18a49)
+
+   The page layout is designed to present the journal entries in a clear and organized manner, making it easy for users to navigate and read through their entries. The entries are typically displayed in a chronological order, with the most recent entry appearing at the top.
+ ![Screenshot (133)](https://github.com/HariniMaruthasalam/Daily_Journal/assets/114240304/5fb9bc21-1945-4800-b870-a7889f49549e)
+
+2. About page:
+   This page is designed to give the description about what exactly daily journal exactly means
+![Screenshot (130)](https://github.com/HariniMaruthasalam/Daily_Journal/assets/114240304/714c16e1-7c10-4c79-bd88-8f210e045fbf)
+
+3. Contact page:
+    In this page, users can find the contact information of the developer or owner of the app. The purpose of including this information is to provide users with a means to communicate with the responsible person in case they have any grievances, feedback, or inquiries related to the app.
+![Screenshot (131)](https://github.com/HariniMaruthasalam/Daily_Journal/assets/114240304/61c2e454-9ca0-4970-9a5e-2c7127764d37)
+
+4. Compose
+   In this page, users have the opportunity to write and document their journal entries. The purpose of this feature is to provide users with a platform within the app where they can express their thoughts, feelings, and experiences.
+![Screenshot (132)](https://github.com/HariniMaruthasalam/Daily_Journal/assets/114240304/8a7ba873-da6f-4915-b6d6-3767d1e13640)
