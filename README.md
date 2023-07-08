@@ -1,7 +1,7 @@
 # Daily_Journal
 ![images](https://github.com/HariniMaruthasalam/Daily_Journal/assets/114240304/872dd5e6-0965-488e-ad49-45956198d95d)
 ![images (1)](https://github.com/HariniMaruthasalam/Daily_Journal/assets/114240304/1f3b90f3-78a1-4fc4-ac64-76d9fa6fbab7)
-![hand_writing_on_notepad_2021_08_26_15_34_39_utc](https://github.com/HariniMaruthasalam/Daily_Journal/assets/114240304/ef7188e0-42d7-404a-b249-35300216e0c2)
+![writing-in-journal](https://github.com/HariniMaruthasalam/Daily_Journal/assets/114240304/48b43ab0-7fca-4fd0-879b-9d81ead4c253)
 
 # What is Daily Journal??
 A daily journal, also known as a diary or journaling, is a personal writing practice where individuals record their thoughts, experiences, and reflections on a regular basis. It serves as a tool for self-expression, self-reflection, and personal growth. Writing in a journal can be done in various formats, including handwritten entries in a physical notebook or using digital platforms or apps.
